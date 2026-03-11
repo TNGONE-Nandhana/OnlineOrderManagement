@@ -25,6 +25,7 @@ namespace Create
             Console.WriteLine("CREATE AN ORDER");
 
 Console.WriteLine("hii git");
+Console.WriteLine("hii git new");
             Console.WriteLine("MENU");
             foreach (var item in products)
             {
