@@ -1,0 +1,14 @@
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\obj\Debug\net8.0\OnlineOrderManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\obj\Debug\net8.0\OnlineOrderManagementSystem.AssemblyInfoInputs.cache
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\obj\Debug\net8.0\OnlineOrderManagementSystem.AssemblyInfo.cs
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\obj\Debug\net8.0\OnlineOrderManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\bin\Debug\net8.0\OnlineOrderManagementSystem.exe
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\bin\Debug\net8.0\OnlineOrderManagementSystem.deps.json
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\bin\Debug\net8.0\OnlineOrderManagementSystem.runtimeconfig.json
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\bin\Debug\net8.0\OnlineOrderManagementSystem.dll
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\bin\Debug\net8.0\OnlineOrderManagementSystem.pdb
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\obj\Debug\net8.0\OnlineOrderManagementSystem.dll
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\obj\Debug\net8.0\refint\OnlineOrderManagementSystem.dll
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\obj\Debug\net8.0\OnlineOrderManagementSystem.pdb
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\obj\Debug\net8.0\OnlineOrderManagementSystem.genruntimeconfig.cache
+C:\Users\NandhanaV\Desktop\Backend\OnlineOrderManagementSystem\obj\Debug\net8.0\ref\OnlineOrderManagementSystem.dll
