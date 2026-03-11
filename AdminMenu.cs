@@ -28,7 +28,7 @@ namespace Create{
         Console.WriteLine("8.Sort By Date");
         Console.WriteLine("9.Display order within Date Range");
         Console.WriteLine("10.Add Menu");
-        Console.WriteLine("11.Exit Admin");
+       //  Console.WriteLine("11.Exit Admin");
         Console.WriteLine("Enter option:");
         int option =int.Parse(Console.ReadLine());
          if(option >= 1 && option <= 11)

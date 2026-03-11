@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NandhanaV\\Desktop\\Backend\\OnlineOrderManagementSystem\\OnlineOrderManagementSystem.csproj": {}
+    "C:\\Users\\NandhanaV\\Desktop\\Backend\\LearnGit\\OnlineOrderManagement\\OnlineOrderManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NandhanaV\\Desktop\\Backend\\OnlineOrderManagementSystem\\OnlineOrderManagementSystem.csproj": {
+    "C:\\Users\\NandhanaV\\Desktop\\Backend\\LearnGit\\OnlineOrderManagement\\OnlineOrderManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NandhanaV\\Desktop\\Backend\\OnlineOrderManagementSystem\\OnlineOrderManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\NandhanaV\\Desktop\\Backend\\LearnGit\\OnlineOrderManagement\\OnlineOrderManagementSystem.csproj",
         "projectName": "OnlineOrderManagementSystem",
-        "projectPath": "C:\\Users\\NandhanaV\\Desktop\\Backend\\OnlineOrderManagementSystem\\OnlineOrderManagementSystem.csproj",
+        "projectPath": "C:\\Users\\NandhanaV\\Desktop\\Backend\\LearnGit\\OnlineOrderManagement\\OnlineOrderManagementSystem.csproj",
         "packagesPath": "C:\\Users\\NandhanaV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NandhanaV\\Desktop\\Backend\\OnlineOrderManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\NandhanaV\\Desktop\\Backend\\LearnGit\\OnlineOrderManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NandhanaV\\AppData\\Roaming\\NuGet\\NuGet.Config"
